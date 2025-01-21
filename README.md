@@ -18,7 +18,7 @@ Elbow point graph<br />
 ![image](https://github.com/user-attachments/assets/26f7765e-931d-40e8-9564-f03d4843622e)
 
 
-Customer ssegmentation graph
+Customer segmentation graph<br />
 ![image](https://github.com/user-attachments/assets/25e925b9-fe57-4778-8d30-c0605e5f6c61)
 
 
